@@ -1,33 +1,17 @@
-Designator,Footprint,Quantity,Item Name,AliExpress Link,Price (USD)
-C1,805,4,1uF,,
-C2,805,4,1uF,,
-C3,805,4,1uF,,
-C4,805,4,1uF,,
-C5,805,1,100nF,,
-C6,805,1,100nF,,
-C7,805,1,100nF,,
-C8,805,1,100nF,,
-C9,805,1,100nF,,
-C10,805,1,100nF,,
-C11,805,1,100nF,,
-C12,805,1,100nF,,
-C13,805,2,18pF,,
-C14,805,2,18pF,,
-C15,805,3,10uF,,
-C16,805,3,10uF,,
-C17,805,3,10uF,,
-J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB-C Receptacle,,
-J2,PinHeader_2x03_P2.54mm_Vertical,1,DEBUG Header,, 
-J3,PinHeader_1x20_P2.54mm_Vertical,2,1x20 Connector,, 
-J4,PinHeader_1x20_P2.54mm_Vertical,2,1x20 Connector,, 
-R1,805,2,1k Resistor,,
-R2,805,2,5.1k Resistor,,
-R3,805,2,5.1k Resistor,,
-R4,805,2,27 Resistor,,
-R5,805,2,27 Resistor,,
-SW1,SW_Push_SPST_NO_Alps_SKRK,1,Push Button Switch,,
-SW2,SW_Push_SPST_NO_Alps_SKRK,1,BOOTSEL Button,,
-U1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,RP2040 Microcontroller,,
-U2,SOT-223-3_TabPin2,1,AMS1117-3.3 Voltage Regulator,,
-U3,SOIC-8_5.3x5.3mm_P1.27mm,1,W25Q128JVS Flash Memory,,
-Y1,Crystal_SMD_5032-4Pin_5.0x3.2mm,1,12MHz Crystal,,
+Designator,Footprint,Quantity,Item Name,Price (USD),ALL COST
+"C1,C2,C3,C4",805,4,1uF,1.43,28.80
+"C5,C6,C7,C8",805,8,100nF,1.63,28.80
+"C13,C14",805,2,18pF,2.93,28.80
+"C15,C16,C17",805,3,10uF,1.42,28.80
+J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB-C Receptacle,1.74,28.80
+J2,PinHeader_2x03_P2.54mm_Vertical,1,DEBUG Header,2.08,28.80
+"J3,J4",PinHeader_1x20_P2.54mm_Vertical,2,1x20 Connector,1.44,28.80
+"R1,R2,R3,R4,R5",805,5,Resistor[Pack + 27ohm resistor smd - used this because this is best price],3.39,28.80
+SW1,SW_Push_SPST_NO_Alps_SKRK,1,Push Button Switch,0.46,28.80
+SW2,SW_Push_SPST_NO_Alps_SKRK,1,BOOTSEL Button,0,28.80
+U1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,RP2040 Microcontroller,4.28,28.80
+U2,SOT-223-3_TabPin2,1,AMS1117-3.3 Voltage Regulator,0.70,28.80
+U3,SOIC-8_5.3x5.3mm_P1.27mm,1,W25Q128JVS Flash Memory,5.49,28.80
+Y1,Crystal_SMD_5032-4Pin_5.0x3.2mm,1,12MHz Crystal,1.81,28.80
+Total,,,,"Total with shipping",42.50
+
