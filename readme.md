@@ -45,4 +45,4 @@ Below you’ll find the 3D model, schematic, board layout, and the full bill of 
 
 ---
 
-This project is perfect for anyone wanting hands-on experience with microcontrollers and soldering. The RP2040 is incredibly versatile, and building your own board from scratch is one of the best ways to truly understand how it works.
+
