@@ -1,3 +1,6 @@
+### Info about traces ;))
+I think they are good im not making f35 controler so i can go with that ;)
+
 # Geeky - RP2040 Microcontroller Project
 
 **Geeky** is an RP2040-based microcontroller board. I created this project to dive deeper into microcontroller design. Because of that, the board is slightly larger than typical designs.  
