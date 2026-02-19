@@ -127,9 +127,10 @@ void readFlash(uint32\_t address, char* buffer, size\_t length) {
 
 ``` 
 -Upload the Code.
-Click the Upload button (the arrow icon) in the Arduino IDE to upload your code to the RP2040.
+> Click the Upload button (the arrow icon) in the Arduino IDE to upload your code to the RP2040.
+
 -Open Serial Monitor.
-After uploading, open the Serial Monitor (set to 9600 baud) to see the output from the Flash memory.
+> After uploading, open the Serial Monitor (set to 9600 baud) to see the output from the Flash memory.
 
 
 
